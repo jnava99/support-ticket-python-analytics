@@ -1,0 +1,51 @@
+ticket_id,customer_id,agent_id,category,priority,status,sla_hours,created_at,resolved_at
+1,9,1,Technical,High,Resolved,24,2026-02-15 08:45:46,2026-02-15 17:26:18
+2,11,1,Billing,Medium,Resolved,72,2026-01-14 17:21:55,2026-01-16 16:21:59
+3,2,6,Bug,High,Closed,24,2026-01-17 10:51:57,2026-01-18 22:58:19
+4,20,3,Account,Medium,Resolved,72,2026-03-14 17:46:16,2026-03-18 22:48:16
+5,10,1,Technical,Low,Resolved,120,2026-02-11 05:45:29,2026-02-15 08:49:40
+6,6,3,Onboarding,Medium,Resolved,72,2026-03-11 09:37:16,2026-03-13 12:55:57
+7,3,5,Feature Request,Medium,Resolved,72,2026-02-26 04:38:10,2026-03-03 02:35:00
+8,18,2,Feature Request,Medium,Resolved,72,2026-01-10 18:20:41,2026-01-13 04:13:01
+9,13,3,Billing,Medium,Resolved,72,2026-03-01 09:37:31,2026-03-06 20:56:22
+10,15,2,Onboarding,Low,Resolved,120,2026-01-29 06:41:01,2026-01-31 21:14:33
+11,19,4,Onboarding,Medium,Closed,72,2026-01-18 18:20:10,2026-01-22 03:11:39
+12,4,2,Feature Request,Medium,Closed,72,2026-03-12 09:38:10,2026-03-13 20:48:48
+13,20,4,Account,Medium,Open,72,2026-03-07 07:43:22,
+14,4,6,Account,Urgent,Resolved,4,2026-01-31 05:44:51,2026-01-31 12:38:34
+15,15,1,Feature Request,Urgent,Open,4,2026-03-14 08:33:54,
+16,17,1,Feature Request,Medium,Resolved,72,2026-03-08 08:51:36,2026-03-15 01:33:22
+17,18,5,Billing,High,Closed,24,2026-02-05 19:20:18,2026-02-08 07:06:02
+18,10,2,Billing,Medium,Resolved,72,2026-03-01 10:02:14,2026-03-06 19:52:25
+19,3,5,Technical,Low,Closed,120,2026-03-10 09:19:51,2026-03-12 00:11:32
+20,17,5,Bug,Medium,Resolved,72,2026-02-26 16:39:03,2026-02-28 04:35:47
+21,12,4,Account,Medium,Resolved,72,2026-01-17 01:57:36,2026-01-21 19:17:25
+22,19,5,Technical,High,Resolved,24,2026-01-26 17:08:37,2026-01-28 17:49:14
+23,8,1,Billing,Medium,Resolved,72,2026-01-12 05:06:34,2026-01-13 21:43:18
+24,18,2,Feature Request,High,Closed,24,2026-03-02 06:40:13,2026-03-04 01:27:53
+25,14,2,Billing,Low,Closed,120,2026-03-10 07:32:27,2026-03-12 20:32:24
+26,2,6,Feature Request,High,Resolved,24,2026-01-14 21:19:48,2026-01-15 08:14:14
+27,4,2,Technical,Medium,In Progress,72,2026-03-07 17:35:28,
+28,5,4,Technical,Medium,Resolved,72,2026-02-19 06:00:05,2026-02-20 00:28:19
+29,18,1,Billing,High,Open,24,2026-03-07 15:05:05,
+30,3,2,Technical,Medium,Closed,72,2026-02-21 11:37:33,2026-02-26 11:58:54
+31,2,2,Bug,Low,Resolved,120,2026-02-12 05:44:55,2026-02-16 04:24:36
+32,10,4,Feature Request,Urgent,Closed,4,2026-02-28 07:02:02,2026-02-28 13:04:24
+33,2,5,Feature Request,High,Resolved,24,2026-01-11 06:02:29,2026-01-13 04:58:22
+34,17,5,Technical,Low,Resolved,120,2026-02-23 15:19:34,2026-02-24 21:29:34
+35,3,6,Technical,Medium,Open,72,2026-03-17 20:09:40,
+36,19,5,Billing,High,Closed,24,2026-01-13 07:02:06,2026-01-13 22:00:32
+37,11,3,Technical,High,Resolved,24,2026-02-04 20:06:05,2026-02-05 03:15:25
+38,10,4,Onboarding,Urgent,Open,4,2026-03-18 23:44:27,
+39,15,5,Account,Low,Resolved,120,2026-01-12 10:42:35,2026-01-13 22:37:50
+40,12,1,Technical,Medium,Resolved,72,2026-02-02 00:04:07,2026-02-03 19:48:08
+41,10,5,Feature Request,High,Resolved,24,2026-01-06 02:13:44,2026-01-06 08:53:36
+42,5,3,Billing,Low,Open,120,2026-03-07 07:43:26,
+43,9,3,Account,Medium,Resolved,72,2026-02-07 14:58:08,2026-02-10 03:25:34
+44,17,4,Onboarding,Low,Closed,120,2026-01-14 07:04:15,2026-01-15 11:02:19
+45,11,2,Feature Request,Medium,In Progress,72,2026-03-16 19:52:19,
+46,18,6,Bug,High,Open,24,2026-03-20 12:22:02,
+47,3,6,Technical,High,Resolved,24,2026-01-08 19:57:05,2026-01-09 03:25:01
+48,5,1,Onboarding,Medium,Resolved,72,2026-01-09 04:57:42,2026-01-13 12:24:33
+49,4,3,Account,Medium,Resolved,72,2026-03-06 14:14:46,2026-03-07 17:25:47
+50,6,2,Bug,Low,Resolved,120,2026-01-22 17:56:26,2026-01-25 06:59:41
